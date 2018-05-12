@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
 description: A romance of Old Virginia, in which a newly-married couple disobey the
   "order of the company", and have extraordinary adventures with pirates and Indians.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45721#By-order-of-the-company
 gutenberg_issued: '2014-05-22'
 gutenberg_type: Text
 identifiers:
