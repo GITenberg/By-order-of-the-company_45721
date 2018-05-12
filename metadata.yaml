@@ -1,0 +1,28 @@
+_repo: By-order-of-the-company_45721
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45721-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Mary
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '695'
+    url: http://www.gutenberg.org/2009/agents/695
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
+description: A romance of Old Virginia, in which a newly-married couple disobey the
+  "order of the company", and have extraordinary adventures with pirates and Indians.
+gutenberg_issued: '2014-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+title: By order of the company
+url: http://www.gutenberg.org/ebooks/45721
